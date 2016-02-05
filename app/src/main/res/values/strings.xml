@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Elementos de interface</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView">TextView</string>
+    <string name="Button">Button</string>
+    <string name="editText">EditText</string>
+</resources>
